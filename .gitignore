@@ -1,0 +1,12 @@
+# Entornos virtuales
+proyecto_cafe/
+.venv/
+env/
+
+# Archivos temporales de Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Configuración local de VS Code
+.vscode/
